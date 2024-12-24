@@ -47,6 +47,8 @@ Below is a screenshot of the **Power BI dashboard** created to visualize the abo
 
 ![Dashboard 1](https://github.com/damathotti/Revenue-insights-in-Hospitality-Domain-Analysis/blob/main/AtliQ%20Grand%20Revenue%20insights.png)
 
+
+- **[View Power BI Dashboard](link)**
 ---
 
 ## 🛠 **How to Use the Dashboard**
